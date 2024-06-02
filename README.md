@@ -1,4 +1,3 @@
-![image](https://github.com/safwanhafeez/Menegerie/assets/128904263/4b795c36-0d60-46d0-ae0b-589aedeb8f26)
 # Menegerie
 
 This project is a Match-3 game developed using the Simple and Fast Multimedia Library (SFML) and basic C++ programming constructs such as structures, pointers, and arrays. The game does not utilize Object-Oriented Programming (OOP) principles, highlighting a more fundamental approach to C++ programming.

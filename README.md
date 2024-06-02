@@ -1,4 +1,4 @@
-
+![image](https://github.com/safwanhafeez/Menegerie/assets/128904263/4b795c36-0d60-46d0-ae0b-589aedeb8f26)
 # Menegerie
 
 This project is a Match-3 game developed using the Simple and Fast Multimedia Library (SFML) and basic C++ programming constructs such as structures, pointers, and arrays. The game does not utilize Object-Oriented Programming (OOP) principles, highlighting a more fundamental approach to C++ programming.
@@ -16,7 +16,7 @@ If you installed SFML to a non-standard path, you'll need to tell the linker whe
 ```
 Binding the include files
 ```bash
-  g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+  g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ```
 If you installed SFML to a non-standard path, you'll need to tell the linker where to find the SFML libraries (.so files):
 ```bash
@@ -28,8 +28,8 @@ Finally you can run the executable application
 ```
 ## Screenshots
 
-![Main Menu](https://imgur.com/4HXD6QI)
+![Main Menu](https://i.imgur.com/4HXD6QI.png)
 
-![Options](https://imgur.com/cAujd2E)
+![Options](https://i.imgur.com/cAujd2E.png)
 
-![Game Screen](https://imgur.com/cAujd2E)
+![Game Screen](https://i.imgur.com/1f9nNKR.png)

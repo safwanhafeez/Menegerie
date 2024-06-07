@@ -9,7 +9,7 @@ Following are the commands for compiling
 ```bash
   g++ -c main.cpp
 ```
-If you installed SFML to a non-standard path, you'll need to tell the linker where to find the SFML libraries (.so files):
+If you installed SFML to a non-standard path, you'll need to tell the linker where to find the SFML libraries (.so files)
 ```bash
   g++ -c main.cpp -I<sfml-install-path>/include
 ```

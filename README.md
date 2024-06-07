@@ -25,7 +25,7 @@ Finally you can run the executable application
 ```bash
   ./sfml-app
 ```
-## Screenshot
+## Screenshots
 
 ![Main Menu](https://i.imgur.com/4HXD6QI.png)
 
